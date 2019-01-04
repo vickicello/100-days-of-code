@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 4, Friday
+
+**Today's Progress**: Merged kickoff branch, solidified comment constructor and prototype in users.js, deleted all traces of turbolinks and unneeded gems, added better div class selectors for comments, sketched out how to show there are no comments (still in my notes.md, not sure how to implement yet), and hand-wrote how to load my comments...I just needed to wrap my head around it and have it to look at easily while I looked at my views.  I also created all my serializers and added the necessary associations.
+
+**Thoughts** 
+I had my 'project kickoff meeting,' which solidified my conceptualization of the project and its requirements.  I learned how to be better at tinkering around every step of the way with figuring out my jQuery, and how to display the JSON I'm after in the browser before using it to drill down using JS and jQuery.  I'm pumped!
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
 ### Day 2: January 3, Thursday
 
 **Today's Progress**: Created my branchfor my 4th portfolio project, and started on the users.js file in addition to sketching out my strategy more deeply in my notes markdown doc.
