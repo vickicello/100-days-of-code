@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 5, Saturday
+
+**Today's Progress**: worked on Hike class and prototype, fixed up comments prototype, worked out jQuery dependencies
+
+**Thoughts** 
+Today was less coding progress than I would have liked due to troubleshooting jQuery not working in the browser, but I finally got it to work, so success!  I also spent a lot of time reviewing an AJAX video to figure out how to render comments in a partial while also using AJAX.  Tomorrow I will try to implement what I learned and get it going.  I also learned how to capture the URL I need to get my first feature working (loading the user's hikes) so that is pretty big.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
 ### Day 3: January 4, Friday
 
 **Today's Progress**: Merged kickoff branch, solidified comment constructor and prototype in users.js, deleted all traces of turbolinks and unneeded gems, added better div class selectors for comments, sketched out how to show there are no comments (still in my notes.md, not sure how to implement yet), and hand-wrote how to load my comments...I just needed to wrap my head around it and have it to look at easily while I looked at my views.  I also created all my serializers and added the necessary associations.
