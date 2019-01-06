@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 3: January 5, Saturday
+### Day 5: January 6, Sunday
+
+**Today's Progress**: I GOT MY AJAX GET REQUESTS TO WORK, VIA HTML AND JSON!!!
+
+**Thoughts** 
+Again, a lot of troubleshooting today.  Takeaways: make sure you wrap your document.ready function around the entire js file; make sure you follow formatting conventions; code things out the low-level, verbose way before attempting fancy shortcuts; remember to program in 'respond_to html and json' in every controller action where it is needed...oof.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
+### Day 4: January 5, Saturday
 
 **Today's Progress**: worked on Hike class and prototype, fixed up comments prototype, worked out jQuery dependencies
 
