@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 7, Monday
+
+**Today's Progress**: did a lot of tinkering with hike next button, but in the end decided to knix in lieu of a more approachable option (just rendering comments).  I think I figured out how to render the comments form, either via partial or by creating a form in JS
+
+**Thoughts** 
+After a lot of internal debate, I decided to knix the 'next' button on my hike show page, it was too tricky for now.  Instead I will just focus on rendering comments and the comments form.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
 ### Day 5: January 6, Sunday
 
 **Today's Progress**: I GOT MY AJAX GET REQUESTS TO WORK, VIA HTML AND JSON!!!
