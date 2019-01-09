@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 8, Tuesday
+
+**Today's Progress**
+I finally figured out a workaround for making a link_to my comments partial (I just turned the comments into index.html.erb which is kind of cheating, but whatever!) and got some stuff appended to the hike show page.  I am sooo close to getting that feature to work.
+
+**Thoughts** 
+I made a dumb mistake that wouldn't allow my link helper to work (forgot to put in some text as a placeholder and a comma after that text)...it was nice to be able to eventually troubleshoot the problem myself without asking anybody or googling around, although it was a silly mistake!  
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
 ### Day 6: January 7, Monday
 
 **Today's Progress**: did a lot of tinkering with hike next button, but in the end decided to knix in lieu of a more approachable option (just rendering comments).  I think I figured out how to render the comments form, either via partial or by creating a form in JS
