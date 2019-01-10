@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 9, Wednesday
+
+**Today's Progress**
+Very good day, received form data through AJAX and display via AJAX (although a bit buggy still), and also got prototype function to work on my users show page.
+
+**Thoughts** 
+Thanks to a nice study session I was able to finally get my prototype function to work, and finally solidified how I will satisfy all project requirements.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
 ### Day 7: January 8, Tuesday
 
 **Today's Progress**
