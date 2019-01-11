@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 10, Thursday
+
+**Today's Progress**
+Thought I would finish up the project today, but ended up not being able to solve the show details of hike feature...I definitely spent more than a few hours tinkering so I think I should try again with fresh eyes tomorrow.
+
+**Thoughts** 
+Sometimes a break is needed ... otherwise I am just going in circles...and sometimes there will be code obstacles that take more than a day to fix.  
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
 ### Day 8: January 9, Wednesday
 
 **Today's Progress**
