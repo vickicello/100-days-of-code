@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 12, Saturday
+
+**Today's Progress**
+I got started on the React curriulum. I practiced setting up a package.json file, and installing an npm package or two and using their functionality to write new code.  I also read a lot about the principles of React and completed the first real React lab.
+
+**Thoughts** 
+I'm thinking I need a bit of outside help for my portfolio project, so I figured I'd start on the React curriculum today and come back to the project tomorrow with fresh eyes. 
+
+**Link(s) to work**
+https://github.com/vickicello/npm-lab-v-000
+https://github.com/vickicello/a-react-app-example-v-000
+
 ### Day 10: January 11, Friday
 
 **Today's Progress**
