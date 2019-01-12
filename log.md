@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 11, Friday
+
+**Today's Progress**
+Today I got my Comment class working, and was able to successfully render comments using AJAX, as well as submit the form via AJAX.
+
+**Thoughts** 
+Another complicated day working on my project - I got some things to work and more requirements are satisfied, but still can't manage to get my hike show AJAX method to work.  I spent a lot of time trying to figure out why my main.css file wouldn't load, either (I still can't figure it out!)  I might have to wait until next week to get some 1:1 help with these things since they seem to be rather specific to my project.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
 ### Day 9: January 10, Thursday
 
 **Today's Progress**
