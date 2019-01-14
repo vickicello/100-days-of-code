@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 13, Sunday
+
+**Today's Progress**
+I plowed through 7 React labs today, learning about props, state, and React components.
+
+**Thoughts** 
+It felt good to learn new things again, after the stalled feeling of working on my project.  I will definitely jump back on my project tomorrow, but for now it feels good to keep moving forward.
+
+**Link(s) to work**
+https://github.com:vickicello/react-static-components-lab-v-000
+https://github.com/vickicello/react-dynamic-components-lab-v-000
+https://github.com/vickicello/react-props-movie-lab-v-000
+https://github.com/vickicello/react-events-crash-course-lab-v-000
+https://github.com/vickicello/react-simple-state-lab-v-000
+https://github.com/vickicello/react-initial-state-lab-v-000
+https://github.com/vickicello/react-using-callbacks-to-pass-information-lab-v-000
+
+
 ### Day 11: January 12, Saturday
 
 **Today's Progress**
