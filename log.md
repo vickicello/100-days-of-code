@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 14, Monday
+
+**Today's Progress**
+An awesome day...I finally figured out the last piece to my portfolio project puzzle!!  Basically the problem was figuring out how to click a link on an element that was just rendered to the page via AJAX.  But I did it!
+
+**Thoughts** 
+It feels nice to finally wrap up this project!  Tomorrow I will record my walkthrough and submit the project.  I also had my last meeting with my educational coach, which was sad but exciting at the same time, as it means I'm almost near the end of my curriculum!
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
+
 ### Day 12: January 13, Sunday
 
 **Today's Progress**
