@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 16, Wednesday
+
+**Today's Progress**
+Completed 5 labs.
+
+**Thoughts** 
+I progressed through more of the React labs today, and had my first meeting with my career coach.  I will probably do some more work later but wanted to commit just in case I didn't get to it.
+
+**Link(s) to work**
+https://github.com/vickicello/react-updating-state-v-000
+https://github.com/vickicello/react-updating-state-lab-v-000
+https://github.com/vickicello/react-forms-v-000
+https://github.com/vickicello/react-forms-lab-v-000
+https://github.com/vickicello/react-props-and-state-lab-v-000
+
+
 ### Day 14: January 15, Tuesday
 
 **Today's Progress**
