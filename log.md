@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 14: January 15, Tuesday
+
+**Today's Progress**
+Submitted portfolio project, blog, and walkthrough; completed 2 lessons and 2 labs 
+
+**Thoughts** 
+Another day committed a little less to actual coding than I would have liked, but I still got my hour in!
+
+**Link(s) to work**
+https://github.com/vickicello/react-event-system-lab-v-000
+https://github.com/vickicello/react-events-in-detail-lab-v-000
+
 ### Day 13: January 14, Monday
 
 **Today's Progress**
