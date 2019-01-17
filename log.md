@@ -1,7 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 15: January 16, Wednesday
+### Day 16: January 17, Thursday
 
+**Today's Progress**
+I tweaked my project a little bit in the Ruby stack, allowing for conditional content if a user didn't have any hikes or if there were no comments on a hike.  I also did a little bit of refactoring after my project review.
+
+**Thoughts** 
+Working out the solution that my project reviewer gave me is proving tricky, but I'll just have to keep at it.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
+
+### Day 15: January 16, Wednesday
 **Today's Progress**
 Completed 5 labs.
 
