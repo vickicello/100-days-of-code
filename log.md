@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 19, Saturday
+
+**Today's Progress**
+I found some great resources for practicing basic JS problems, so I worked on various JS array problems.
+
+**Thoughts** 
+After feeling pretty bad about my progress yesterday, I decided to hold off on coding until later in the evening and spend some time out of the house and away from the computer, which was hard because I usually like to start coding right when I wake up on my off days in order to feel accomplished.  But I think spending some time away was needed, and I was able to recompose myself and seek out some good resources that will help me fill in the skill gap I have with JS.  I'm going to try to spend an hour a day at least on these problems until I feel more comfortable with the basics - I just need to make sure I make time to continue the Flatiron curriculum as well.
+
+**Link(s) to work**
+https://github.com/vickicello/js-assessment
+
+### Day 17: January 18, Friday
+
+**Today's Progress**
+After review of my project, my coach recommended I spend more time on JS basics.  I did do a lot of live coding, which was helpful, but made me realize how much I need to practice basic vanilla js.
+
+**Thoughts** 
+Today was a little disheartening.  I am trying to remind myself that I am still a beginner, and need to just keep plugging away and coding as much as possible so I feel more comfortable in JS land.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app
+
+
 ### Day 16: January 17, Thursday
 
 **Today's Progress**
