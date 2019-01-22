@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 20: January 21, Monday
+
+**Today's Progress**
+Worked on the JS assessment, and completed 5 labs, 4 lessons, 3 lessons on career development; studied up on JS core concepts, and practiced for a phone interview Wednesday.  
+
+**Thoughts** 
+It was nice to have a slower weekend (while still meeting the 1 hour of code challenge and doing some not-in-the-editor studying).  Today I was ready to jump back in though, and I was very productive.
+
+**Link(s) to work**
+https://github.com/vickicello/react-component-mounting-lab-v-000
+https://github.com/vickicello/react-component-mounting-and-unmounting-lab-v-000
+https://github.com/vickicello/react-component-updating-lab-v-000
+https://github.com/vickicello/react-async-fetch-lab-v-000
+https://github.com/vickicello/react-async-gif-search-lab-v-000
+https://github.com/vickicello/js-assessment
+
+### Day 19: January 20, Sunday
+
+**Today's Progress**
+Worked on the JS assessment.
+
+**Thoughts** 
+Forgot to post yesterday, I just worked on some more JS fundamentals.
+
+**Link(s) to work**
+https://github.com/vickicello/js-assessment
+
 ### Day 18: January 19, Saturday
 
 **Today's Progress**
