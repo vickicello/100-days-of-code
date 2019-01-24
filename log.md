@@ -1,5 +1,29 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 23, Wednesday
+
+**Today's Progress**
+Today was spent entirely on reviewing jQuery and AJAX, and figuring out a solution to the JS exercise from yesterday.  I was able to find the solution!
+
+**Thoughts** 
+After the euphoria of finally making it work, I took some time to write down and explain my process in my notes so that I really understood what was happening in the code every step of the way.  Today was also exciting because I had my first interview for a software development job, and I did pretty well.  Lots of emotional ups and downs today, but I feel a lot better after accomplishing everything that I set out to do.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app/tree/js_review
+
+### Day 21: January 22, Tuesday
+
+**Today's Progress**
+Worked on finding a solution to the new JS problem I received from my project reviewer in my JS + Rails project. 
+
+**Thoughts** 
+I spent a lot of time looking over review materials from my project reviewer, and got cracking on coding my solution to the new exercise he gave me.  I was a little bit panicked because the exercise involved using a search bar or drop-down menu to search for hikes by state.  I had incorporated a drop-down menu into my project before, but I figured that a simple input field would make the input more straightforward to grab, since I had learned how to do that in past study sessions.  
+
+This led to some intense searching of how to create a search bar in Rails, and I spent a lot of time on the aspect of the exercise that wasn't even the main focus...lots of time trying to figure out how I should manipulate the index view, controller action, models, routes, etc.  I ended up not even figuring out a solid solution, but at least I got the research underway and have a few good ideas about how I will do it.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app/tree/js_review
+
 ### Day 20: January 21, Monday
 
 **Today's Progress**
