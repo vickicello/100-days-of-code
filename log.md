@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 25, Friday
+
+**Today's Progress**
+Made it through the Advanced Components section of React.  Created a plan of attack for nailing my first technical interview (less than 3 weeks away).  
+
+**Thoughts** 
+I've decided in addition to my Learn.co coursework, I'll switch to doing codewars exercises - 2-3 a day, for at least an hour a day.  I've decided to perform my technical interview in Ruby, so shifting the focus back to my 'native language' will be a good idea.  I'll try to work on some JS exercises as well, but hopefully I will keep up to snuff with it through my work on React.
+
+This is probably the most stressed out I've ever been...but I think making a plan of attack and practicing algorithms & studying up every day can help me push through.  Challenge accepted!
+
+**Link(s) to work**
+https://github.com/vickicello/react-container-components-lab-v-000
+https://github.com/vickicello/react-presentation-components-lab-v-000
+https://www.codewars.com/users/vickicello/stats
+
+### Day 23: January 24, Thursday
+
+**Today's Progress**
+Finished up my last work on the fourth portfolio project.
+
+**Thoughts** 
+I'm feeling excited and also nervous - I'm kind of at that point in my development as a programmer where I 'know enough to be dangerous' - but I continue to realize there is so, so much more to learn.  I think it's all a matter of mindset - I love learning, and making things work - so I can make it happen.  I just need to keep my chin up and keep absorbing and practicing.
+
+**Link(s) to work**
+https://github.com/vickicello/rails_js_us_hikes_app/tree/js_review
+
 ### Day 22: January 23, Wednesday
 
 **Today's Progress**
