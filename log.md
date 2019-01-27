@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 26, Saturday
+
+**Today's Progress**
+Finished the React section - 3 labs and 7 lessons.
+
+**Thoughts** 
+Just one more section in my Learn.co curriculum left!
+
+**Link(s) to work**
+https://github.com/vickicello/react-router-nested-routes-code-along-v-000
+https://github.com/vickicello/react-components-as-routes-lab-v-000
+https://github.com/vickicello/react-components-as-routes-v-000
+
+
 ### Day 24: January 25, Friday
 
 **Today's Progress**
