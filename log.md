@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 26: January 27, Sunday
+
+**Today's Progress**
+Mostly practiced algorithms and interview questions, in addition to completing some lessons on the career track.
+
+**Thoughts** 
+I'm feeling a little more comfortable with creating algorithms, thanks to codewars.
+
+**Link(s) to work**
+https://www.codewars.com/users/vickicello/stats
+
 ### Day 25: January 26, Saturday
 
 **Today's Progress**
