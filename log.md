@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 27: January 28, Monday
+
+**Today's Progress**
+Mostly practiced algorithms and interview questions, and I worked my way through a few lessons and one lab in Learn.
+
+**Thoughts** 
+Today I spent some time on HackerRank; I think I will spend more time there because I like the flow and layout of questions more.  23 lessons and 18 labs left on Learn - holy moly!
+
+**Link(s) to work**
+https://github.com/vickicello/redux-reducer-v-000
+https://www.hackerrank.com/vickicello?hr_r=1
+
+
 ### Day 26: January 27, Sunday
 
 **Today's Progress**
