@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 28: January 29, Tuesday
+
+**Today's Progress**
+1 lesson, 2 labs, and a lot of Hackerrank.  
+
+**Thoughts** 
+I'm actually having a good time on Hackerrank!  I'm working my way up to more difficult challenges, but it's a great refresher.
+
+**Link(s) to work**
+https://www.hackerrank.com/vickicello?hr_r=1
+https://github.com/vickicello/redux-create-store-lab-v-000
+https://github.com/vickicello/intro-to-redux-library-codealong-v-000
+
+
 ### Day 27: January 28, Monday
 
 **Today's Progress**
