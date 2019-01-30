@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 29: January 30, Wednesday
+
+**Today's Progress**
+2 labs, and a lot of Hackerrank.  
+
+**Thoughts** 
+Keeping on keeping on.
+
+**Link(s) to work**
+https://www.hackerrank.com/vickicello?hr_r=1
+https://github.com/vickicello/review-map-state-to-props-readme-v-000
+https://github.com/vickicello/map-state-to-props-readme-v-000
+
+
 ### Day 28: January 29, Tuesday
 
 **Today's Progress**
