@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 30: January 31, Thursday
+
+**Today's Progress**
+1 lesson and 5 labs on Learn.co.
+
+**Thoughts** 
+The end of my first month of the 100 day challenge!  So far, so good.
+
+**Link(s) to work**
+https://github.com/vickicello/map-state-to-props-lab-v-000
+https://github.com/vickicello/map-dispatch-to-props-readme-v-000
+https://github.com/vickicello/map-dispatch-to-props-lab-v-000
+https://github.com/vickicello/combine-reducers-v-000
+https://github.com/vickicello/quote-maker-react-lab-v-000
+
 ### Day 29: January 30, Wednesday
 
 **Today's Progress**
