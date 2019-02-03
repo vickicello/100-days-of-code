@@ -1,19 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 30: January 31, Thursday
+### Day 32: February 2, Saturday
 
 **Today's Progress**
-1 lesson and 5 labs on Learn.co.
+2 labs on Learn.co. and kind of helped with a code challenge.
 
 **Thoughts** 
-The end of my first month of the 100 day challenge!  So far, so good.
+Forgot to post on Saturday!
 
 **Link(s) to work**
-https://github.com/vickicello/map-state-to-props-lab-v-000
-https://github.com/vickicello/map-dispatch-to-props-readme-v-000
-https://github.com/vickicello/map-dispatch-to-props-lab-v-000
-https://github.com/vickicello/combine-reducers-v-000
-https://github.com/vickicello/quote-maker-react-lab-v-000
+https://github.com/vickicello/redux-index-codealong-v-000/blob/master/src/components/todos/CreateTodo.js
+https://github.com/vickicello/building-forms-lab-v-000
+
+### Day 31: February 1, Friday
+
+**Today's Progress**
+1 lesson and 1 lab and some hackerrank.
+
+**Thoughts** 
+Forgot to post on Friday!
+
+**Link(s) to work**
+https://github.com/vickicello/redux-forms-codealong-v-000
++ hackerrank
 
 ### Day 29: January 30, Wednesday
 
