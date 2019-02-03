@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 3, Sunday
+
+**Today's Progress**
+3 labs on Learn.co. - woo!
+
+**Thoughts** 
+Only one big lab left before my final project at Flatiron!
+
+**Link(s) to work**
+https://github.com/vickicello/crud-lab-v-000
+https://github.com/vickicello/redux-delete-lab-v-000
+https://github.com/vickicello/redux-delete-codealong-v-000
+
 ### Day 32: February 2, Saturday
 
 **Today's Progress**
