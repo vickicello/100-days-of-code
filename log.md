@@ -1,12 +1,34 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 5, Tuesday
+
+**Today's Progress**
+working on code challenges through various resources + finished labs and lessons on Learn!
+
+**Thoughts** 
+Finished the last lesson and lab on Learn.co!
+
+**Link(s) to work**
+See my github repos for sandbox playground, and redux-thunk-lab
+
+### Day 34: February 4, Monday
+
+**Today's Progress**
+just studying up for my interview next week. Hackerrank and other interview questions
+
+**Thoughts** 
+See Hackerrank and the repo I made for a sandbox.
+
+**Link(s) to work**
+See Hackerrank and the repo I made for a sandbox.
+
 ### Day 33: February 3, Sunday
 
 **Today's Progress**
-3 labs on Learn.co. - woo!
+Only 2 lessons left on Learn!
 
-**Thoughts** 
-Only one big lab left before my final project at Flatiron!
+**Thoughts**
+I accidentally deleted day 33 in my fuy to push up this log, haha,  Whoopsies.
 
 **Link(s) to work**
 https://github.com/vickicello/crud-lab-v-000
