@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 36, 37, 38: February 6-8
+
+**Today's Progress**
+So I've been bad about posting lately...it's been a busy week!  I have been coding every day, but all in practice for a technical interview next Monday.
+
+**Thoughts** 
+Scramble mode!
+
+**Link(s) to work**
+https://github.com/vickicello/playground
+https://www.hackerrank.com/vickicello
+and interview cake!
+
 ### Day 35: February 5, Tuesday
 
 **Today's Progress**
