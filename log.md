@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 39, 40, 41, 42: February 9-12
+
+**Today's Progress**
+Whoopsies!  I was bad again about documenting my programming activity.  But I did meet my 1 hour goal each day.
+
+**Thoughts** 
+I'll try to get back on the posting-every-day-train starting tomorrow, especially since I will be in project mode!
+
+**Link(s) to work**
+https://github.com/vickicello/playground
+https://github.com/vickicello/world-happiness-app-api
+https://github.com/vickicello/world-happiness-app-client
+
 ### Day 36, 37, 38: February 6-8
 
 **Today's Progress**
