@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 43: February 13, 2019
+
+**Today's Progress**
+I set up my Rails db from an imported csv file, and fleshed out a plan for my final project.
+
+**Thoughts** 
+It was really exciting figuring out how to import csv all by myself, and also confirming that my project idea was solid.  I'm excited!
+
+**Link(s) to work**
+https://github.com/vickicello/world-happiness-app-api
+
+
 ### Day 39, 40, 41, 42: February 9-12
 
 **Today's Progress**
