@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 44 + 45: February 14-15, 2019
+
+**Today's Progress**
+I was bad and forgot to push my work up yesterday!  I got my Rails backend to connect to my React frontend though, woo!
+
+**Thoughts** 
+Lots of progress on my project the last two days, woo!
+
+**Link(s) to work**
+https://github.com/vickicello/world-happiness-app-api
+
 ### Day 43: February 13, 2019
 
 **Today's Progress**
