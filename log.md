@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 46 + 47: February 16-17, 2019
+
+**Today's Progress**
+Another 2 day stint.  This time, I spent a verrrry long time researching how to add associations/nested routes via React. But in reality, I pretty much ended up back at square one.  Oof.
+
+**Thoughts** 
+ I toyed around with using ActiveModelSerializers for a few hours.  And adding an image url to the countries from the CSV.  But nothing seemed to want to take.  This has been probably one of many frustrating weekends I will face as a developer - spending hours combing through tutorials and Medium posts to try to figure out how to do what I want to do.  But I think for now, as I have continued to do in the past, I must focus on just making a minimum viable app to pass project requirements.  Tomorrow I'm going to try to figure out more of the React side and perhaps experiment with using jbuilder instead of AMS, since it was giving me headaches.  Or I will leave out my associations for now and just get the basics working before adding that layer.
+
+**Link(s) to work**
+https://github.com/vickicello/world-happiness-app-api
+
 ### Day 44 + 45: February 14-15, 2019
 
 **Today's Progress**
