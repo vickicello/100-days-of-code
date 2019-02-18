@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 48: February 18, 2019
+**Today's Progress**
+I spent some more time fleshing out my React app, and doing some nicer table styling on my root page.
+
+**Thoughts** 
+ I'll need to figure out how to lay out index.js, App,js, and maybe Countries.js in a way that promotes SOC and aligns with React conventions tomorrow.  After that, I can add my router and figure out how to incorporate Redux.  Following that, how to display a Country#show page.
+
+**Link(s) to work**
+https://github.com/vickicello/world-happiness-app-api
+
 ### Day 46 + 47: February 16-17, 2019
 
 **Today's Progress**
