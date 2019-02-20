@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 49: February 19, 2019
+**Today's Progress**
+I did a lottt of things to refactor how my client side was working in my React app.
+
+**Thoughts** 
+A lot of good progress today, and really fleshing out each container and component.  I also made sure I had redux and thunk installed and integrated.  But now my API fetch function isn't working...sigh.  I'll have to figure it out tomorrow.
+
+**Link(s) to work**
+https://github.com/vickicello/world-happiness-app-client
+
 ### Day 48: February 18, 2019
 **Today's Progress**
 I spent some more time fleshing out my React app, and doing some nicer table styling on my root page.
