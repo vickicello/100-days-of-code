@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 50: February 20, 2019
+**Today's Progress**
+I did a lot of screwing around with my project...
+
+**Thoughts** 
+So yeah.  I've done a lot of reworking with my project, but basically, what I'm realizing is that I am in way over my head by using CSV data and trying to throw on a Rails model to it to meet project requirements.  And I've been watching so many tutorials to get it working right that now my code has gotten pretty screwed up.  So I'm thinking...I may just jump ship and start a fresh project that is more approachable, now that I understand the project paramters more fully.
+
+It sucks feeling like I failed, but I'm not really sad about it at all because I learned A TON along the way.  And it's something I can return to after the pressures of completing graduation in a timely manner are off.  With a less crazy project, I can focus on making something that works and that looks nice. Onwards and upwards.
+
+**Link(s) to work**
+Heh...I didn't even bother pushing it up since I fudged things up so bad!
+
 ### Day 49: February 19, 2019
 **Today's Progress**
 I did a lottt of things to refactor how my client side was working in my React app.
