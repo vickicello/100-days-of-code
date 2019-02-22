@@ -1,6 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 51: February 21, 2019
+
+**Today's Progress**
+Figured out how to use PostgreSQL with Rails, and created the structure for Final Project, take 2.
+
+**Thoughts** 
+Yesterday was pretty harrowing, but it felt really good to have a fresh start and set up my project the right way.  I'm also super excited because I've learned how to use PostGreSQL!  This time around, I have a much clearer vision with how to build out my project step by step, and I'm very excited to see it to completion and meet project requirements.
+
+**Link(s) to work**
+https://github.com/vickicello/garden-planner-client
+https://github.com/vickicello/garden-planner-api
+
 ### Day 50: February 20, 2019
+
 **Today's Progress**
 I did a lot of screwing around with my project...
 
