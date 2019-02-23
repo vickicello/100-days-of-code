@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 52: February 22, 2019
+
+**Today's Progress**
+Continued to sketch out my Api v2, and seeded the database.  I also started to plan for a technical interview I have next Wednesday.
+
+**Thoughts** 
+Lots of exciting progress today!  One victory was FINALLY figuring out how to add a Date to seed data and add it to the database properly.  
+
+**Link(s) to work**
+https://github.com/vickicello/garden-planner-client
+https://github.com/vickicello/garden-planner-api
+
 ### Day 51: February 21, 2019
 
 **Today's Progress**
