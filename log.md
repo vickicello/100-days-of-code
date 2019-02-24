@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 53: February 23, 2019
+
+**Today's Progress**
+Today was all about preparation for an interview next Wednesday.  I created a new Rails app, contructed the db, models, associations, user auth, application layout, etc.  A very productive day.
+
+**Thoughts** 
+It was fun circling back to Bootstrap and not being so scared about it this time.  I'm excited to work with it and understand it on a deeper level.
+
+**Link(s) to work**
+Not going to provide explicitly, but you can se on my Github :)
+
 ### Day 52: February 22, 2019
 
 **Today's Progress**
