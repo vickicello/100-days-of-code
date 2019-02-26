@@ -1,5 +1,27 @@
 # 100 Days Of Code - Log
 
+### Day 55: February 25, 2019
+
+**Today's Progress**
+Added another controller and solidified some associations in my interview project. I also added a lot of styling with Bootstrap.
+
+**Thoughts** 
+It's amazing how easy it is to use Bootstrap!  I wish I would have allowed myself to dig into it more when I first started.  But now I feel more confident creating a CRUD Rails/Bootstrap/PostgreSQL app quickly, so that's cool.
+
+**Link(s) to work**
+Not going to provide explicitly, but you can see on my Github :)
+
+### Day 54: February 24, 2019
+
+**Today's Progress**
+Worked out routes and customer and project controller logic and views.
+
+**Thoughts** 
+Whoops, forgot to post again.  Lots of good progress with getting things up and running with my interview project today.
+
+**Link(s) to work**
+Not going to provide explicitly, but you can see on my Github :)
+
 ### Day 53: February 23, 2019
 
 **Today's Progress**
@@ -9,7 +31,7 @@ Today was all about preparation for an interview next Wednesday.  I created a ne
 It was fun circling back to Bootstrap and not being so scared about it this time.  I'm excited to work with it and understand it on a deeper level.
 
 **Link(s) to work**
-Not going to provide explicitly, but you can se on my Github :)
+Not going to provide explicitly, but you can see on my Github :)
 
 ### Day 52: February 22, 2019
 
