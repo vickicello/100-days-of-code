@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Days 56 - 59: February 26 - March 1, 2019
+
+**Progress**
+Time really got away from me!  I hadn't realized that I didn't post since Monday during this whirlwind week.  But I did make great progress, and got more than an hour of coding in every day.  I finished my project for the interview I had on Wednesday, and then really started hammering away at my final project again.
+
+**Thoughts** 
+With the interview behind me, I could jump full-force back into my final project.  I spent along time coding along with some tutorials, and that helped my understanding of how to transition into using Redux and Thunk a lot.  My project is almost totally functional, I just need to add a show route and figure out how to separate what I'm showing in my index vs show page, and then add some more styling.
+
+**Link(s) to work**
+https://github.com/vickicello/garden-planner-client
+https://github.com/vickicello/garden-planner-api
+
 ### Day 55: February 25, 2019
 
 **Today's Progress**
