@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 60 - March 2, 2019
+
+**Progress**
+Big big progress today...I COMPLETED MY FINAL PORTFOLIO PROJECT!
+
+**Thoughts** 
+I can't believe I'm finally here!  I do have a few tweaks I'd like to make, but the project works and meets project requirements.  Heck yes!
+
+**Link(s) to work**
+https://github.com/vickicello/garden-planner-client
+https://github.com/vickicello/garden-planner-api
+
 ### Days 56 - 59: February 26 - March 1, 2019
 
 **Progress**
