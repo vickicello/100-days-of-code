@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 61 - March 3, 2019
+
+**Progress**
+Today I am simply reviewing React and Redux to make sure I completely understand how the flow of data and how the two libraries work together.
+
+**Thoughts**
+While React makes developing a frontend relatively straightforward, I want to get to know exactly how data flows for debugging purposes.  I'm also hoping it will help me figure out how to get my 'delete button' working in my portfolio project.
+
+**Links to Work**
+https://github.com/vickicello/tic_tac_toe
+https://reactjs.org/tutorial/tutorial.html
+
 ### Day 60 - March 2, 2019
 
 **Progress**
