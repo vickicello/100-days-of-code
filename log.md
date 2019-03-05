@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 62 + 63 - March 4-5, 2019
+
+**Progress**
+I just spent some time adding finishing touches to my project before my review.
+**Thoughts**
+I figured out that I can use Rails model validations with React (although I'm not sure how to show error messages yet).  I got my delete button to work but for some reason the page isn't rerendering after.
+
+**Link(s) to work**
+https://github.com/vickicello/garden-planner-client
+https://github.com/vickicello/garden-planner-api
+
 ### Day 61 - March 3, 2019
 
 **Progress**
