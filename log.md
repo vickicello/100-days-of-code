@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 65 - 67, March 7 - 9, 2019
+
+**Progress**
+Time has flown by again, and I've forgotten to commit my 100-days-of-code log again!  During the last few days, I touched up my final project and had my 1st project review, worked on the project for my interview, and today I added a feature to present at my next code review.
+
+**Thoughts**
+It's exciting digging in a little more and becoming more comfortable with React.  After I (finally) graduate, I'd like to work on some purely React or React/Redux projects so I become even more comfortable with the framework.
+
+**Link(s) to work**
+https://github.com/vickicello/garden-planner-client
+https://github.com/vickicello/garden-planner-api
+
 ### Day 64 - March 6, 2019
 
 **Progress**
