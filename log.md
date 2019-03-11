@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
-### Day 65 - 67, March 7 - 9, 2019
+### Days 68 - 69, March 10 + 11, 2019
+
+**Progress**
+The past two days, I've just practiced getting more comfortable with the command line.  I'm also working my way through 'Learn Ruby the Hard Way.'  It's definitely way too easy for me now (at least the first bit), but I'm happy to review to make sure all of my fundamental concepts are in place.  I did need some help solidifying my concept of the % modulus operator, for example.
+
+**Linkes to Work**
+https://learnrubythehardway.org/book/appendixa.html 
+
+
+### Days 65 - 67, March 7 - 9, 2019
 
 **Progress**
 Time has flown by again, and I've forgotten to commit my 100-days-of-code log again!  During the last few days, I touched up my final project and had my 1st project review, worked on the project for my interview, and today I added a feature to present at my next code review.
