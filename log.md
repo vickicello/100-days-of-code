@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 70, March 12, 2019
+
+**Progress**
+I'm continuing to work through 'Learn Ruby the Hard Way' and alos started reading 'Metaprogramming Ruby 2', which I'm really excited about!  
+
+**Thoughts**
+Once I start digging into more advanced exercises and problems I will push to Github, but for now there isnt much to commit.
+
+**Links to Work**
+None at the moment.
+
 ### Days 68 - 69, March 10 + 11, 2019
 
 **Progress**
