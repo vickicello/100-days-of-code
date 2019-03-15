@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Days 71 - 73, March 13 - 15, 2019
+
+**Progress**
+Still working through 'Learn Ruby the Hard Way.'  I'm about halfway through!
+
+**Thoughts**
+Although some stuff is way too beginner for me, I'm learning a lot about different Ruby methods, like open(), close(), seek(), etc.  It's neat learning from the perspective of an 'older' programmer as well, and refreshing on CLI concepts.  
+
+**Links to Work**
+Again, nothing really worth posting up to Github yet.
+
 ### Day 70, March 12, 2019
 
 **Progress**
