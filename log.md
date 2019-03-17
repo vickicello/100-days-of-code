@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Days 74 - 75, March 16 - 17, 2019
+
+**Progress**
+Worked through more of 'Learn Ruby the Hard Way' and brushed up on my portfolio project for review Monday.
+
+**Thoughts**
+I had fun reviewing React concepts and Boolean Algebra this weekend.  Woo!
+
+**Links to Work**
+https://github.com/vickicello/garden-planner-client
+
 ### Days 71 - 73, March 13 - 15, 2019
 
 **Progress**
