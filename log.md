@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Days 76 - 77, March 18 - 19, 2019
+
+**Progress**
+Worked through more of 'Learn Ruby the Hard Way', passed my final portfolio project at Flatiron, and GRADUATED!
+
+**Thoughts**
+While I am so happy to have finished the curriculum at Flatiron, I'm even more excited to have a little breathing room to take the time to review concepts and take on new ones.  Working through 'Learn Ruby the Hard Way' has been a good refresher, and I've also been introduced to new concepts that I've been curious about but never really had much time to dig into (like Inheritance vs Composition, using Modules and Mixins).  I'm pumped to be able to have enough knowledge to tackle these new ideas on my own.  
+
+**Links to Work**
+You can see my finished portfolio project here, but all of the other stuff I've been doing is just on my local machine (it's still not really much worth pushing up, although I will be designing a CLI text-based game for the next step in the book, which might be fun to push up!)
+https://github.com/vickicello/garden-planner-client
+
 ### Days 74 - 75, March 16 - 17, 2019
 
 **Progress**
