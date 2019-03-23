@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Days 78 - 80, March 20 - 22, 2019
+
+**Progress**
+Sweet, I made it to Day 80!  I've been building a fun little CLI game called 'Pet Shop' the past few days, which will increase complexity as I flesh it out more and more.
+
+**Thoughts**
+I think this is a good way to recap the things I've gone over in 'Learn Ruby the Hard Way.'  I'm having fun!
+
+**Links to Work**
+https://github.com/vickicello/pet_shop
+
 ### Days 76 - 77, March 18 - 19, 2019
 
 **Progress**
