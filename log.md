@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log
 
+### Days 82 - 83, March 24 and 25, 2019
+
+**Progress** 
+Still working my way through LRTHW.  I 'finished' my game and am moving on to writing tests, which I want to learn more about, yay!
+
+**Thoughts**
+Yet again, there isn't much to push up in terms of the Chapters I'm on in the book, but I did push up my finished game.  The game could definitely use a little more work but I wanted to move on to the testing stuff since that is more important to me at thi time.
+
+**Links to Work**
+https://github.com/vickicello/pet_shop
+
+### Day 81, March 23, 2019
+
+**Progress**
+I didn't get a full hour in today due to having activities all day, but I did work a bit on reworking the logic in my controller for my CLI app.
+
+**Thoughts** 
+It was tricky today because I was working without internet so I couldn't troubleshoot an error message I was getting.  I think that I'm probably not escaping my statements correctly (the ones that the machine outputs to the user)
+
+**Links to Work**
+https://github.com/vickicello/pet_shop
+
+
 ### Days 78 - 80, March 20 - 22, 2019
 
 **Progress**
