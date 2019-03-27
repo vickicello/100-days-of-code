@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 84, March 26, 2019
+
+**Progress**
+I finished LRTHW!
+
+**Thoughts**
+LRTHW was a great refresher and taught me to be more comfortable with the command line.  However, as I worked my way through the book and exercises, I realized that the material is rather old so I began to worry that some of the language and practices may be outdated.  Two other books on Ruby that I've wanted to jump into, Eloquent Ruby and The Well-Grounded Rubyist, are also over eight years old at this point, so I find myself wondering if I should check out more recently published works.  Something to discuss at the next Ruby meetup I attend!  I think next I will try to jump into an RSpec tutorial and practice writing tests; I'd also like to continue on with Metaprogramming Ruby 2 now that I am done with LRTHW.
+
+**Links to Progress**
+I didn't end up pushing anything else up, since I was mostly practicing Bash commands and building project structures.
+
 ### Days 82 - 83, March 24 and 25, 2019
 
 **Progress** 
