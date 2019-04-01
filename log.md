@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Days 85 - 90, March 27 - April 1, 2019
+
+**Progress**
+I have been verrrry bad at posting to my 100 Days of Code log, whoops! Again, I think that this is due to the fact that I have been reading through another programming book, 'Metaprogramming Ruby 2.'  All of the code I am working on is either being done on repl.it or actually being hand-written into my notebook for future reference.  The work I'm doing is mostly just examples to confirm comprehension of broader concepts.
+
+**Thoughts**
+Metaprogramming Ruby 2 is basically blowing my mind.  I'm allowing myself to savor each paragraph and taking the time to talk through each example to make sure I fully comprehend everything.  Because I'm no longer working under the pressure of completing a project or curriculum, I'm also allowing myself to wander off on tangents if there is a gap in my understanding or a subject I'm curious about (for example, solidifying my understanding of namespaces and figuring out how alias works).  I do feel however, that I should start a new project soon so I don't get super rusty.  I found some fun coding challenges on Github that I'll try my hand at later this week.
+
+**Links to Work**
+Nothing was pushed up, but you can check out my current read here:
+https://doc.lagout.org/programmation/Ruby/Metaprogramming%20Ruby_%20Program%20Like%20the%20Ruby%20Pros%20%282nd%20ed.%29%20%5BPerrotta%202014-08-18%5D.pdf
+
 ### Day 84, March 26, 2019
 
 **Progress**
