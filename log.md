@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Days 91 - 94, April 2 - 5, 2019
+
+**Progress**
+Still working my way through Metaprogramming Ruby 2!
+
+**Thoughts** 
+I feel bad for not posting up again! I've really been enjoying the book though.  Once again, most of the exercises I am just doing through repl.it and jotting down notes for future use.
+
+**Links to Work**
+Nothing to push up for now :)
+
+
 ### Days 85 - 90, March 27 - April 1, 2019
 
 **Progress**
